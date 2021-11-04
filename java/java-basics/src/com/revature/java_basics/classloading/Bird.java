@@ -11,7 +11,7 @@ public class Bird {
     }
 
     static {
-        System.out.println("b3");
+        System.out.println("b3000");
     }
 
 }
